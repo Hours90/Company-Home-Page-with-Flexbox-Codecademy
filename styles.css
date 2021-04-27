@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap');
+*{
+    font-family: 'Lexend Mega', sans-serif;
+}
+.nav-link{
+    color: black;
+}
+.main-banner{
+    background-image: url("https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/img/skyscrapers.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50%;
+}
+.statement{
+    background-color: white;
+}
+
+img{
+    max-width: 100%;
+}
+.spacer{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#team{
+    background-image: url("https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/img/blurred-road.jpg");
+}
+.card img{
+    max-height: 400px;
+    margin: 0 auto;
+    width: auto;
+}
